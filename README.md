@@ -9,7 +9,7 @@ Built with **HTML, CSS, and JavaScript**, this version brings party vibes with a
 ---
 
 ## ✨ Features
-- 🎉 Confetti burst and emoji poppers when someone wins
+- 🎉 Confetti burst and emoji poppers when someone wins 
 - 🟦 Neon-glass styling with smooth hover animations
 - 🧠 Smart win detection with status tracking
 - 🔁 Instant reset functionality
