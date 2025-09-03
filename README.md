@@ -3,7 +3,7 @@
 Welcome to **Tic Tac Toe - Celebration Edition**, a vibrant and interactive twist on the classic game!  
 Built with **HTML, CSS, and JavaScript**, this version brings party vibes with animated confetti, birthday-style poppers, and a sleek glowing interface. 
 
-### 🔗 Live Demo
+### 🔗 Live Demo  
 👉 [Play Now](https://tic-tac-toe-mu-lovat-28.vercel.app/)
 
 ---
